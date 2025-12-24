@@ -1,0 +1,15 @@
+C:\Users\Memo4\Desktop\LibraryProject\ToDoListApi\ToDoListApi.Application\bin\Debug\net9.0\ToDoListApi.Application.deps.json
+C:\Users\Memo4\Desktop\LibraryProject\ToDoListApi\ToDoListApi.Application\bin\Debug\net9.0\ToDoListApi.Application.dll
+C:\Users\Memo4\Desktop\LibraryProject\ToDoListApi\ToDoListApi.Application\bin\Debug\net9.0\ToDoListApi.Application.pdb
+C:\Users\Memo4\Desktop\LibraryProject\ToDoListApi\ToDoListApi.Application\bin\Debug\net9.0\ToDoListApi.Domain.dll
+C:\Users\Memo4\Desktop\LibraryProject\ToDoListApi\ToDoListApi.Application\bin\Debug\net9.0\ToDoListApi.Domain.pdb
+C:\Users\Memo4\Desktop\LibraryProject\ToDoListApi\ToDoListApi.Application\obj\Debug\net9.0\ToDoListApi.Application.csproj.AssemblyReference.cache
+C:\Users\Memo4\Desktop\LibraryProject\ToDoListApi\ToDoListApi.Application\obj\Debug\net9.0\ToDoListApi.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Memo4\Desktop\LibraryProject\ToDoListApi\ToDoListApi.Application\obj\Debug\net9.0\ToDoListApi.Application.AssemblyInfoInputs.cache
+C:\Users\Memo4\Desktop\LibraryProject\ToDoListApi\ToDoListApi.Application\obj\Debug\net9.0\ToDoListApi.Application.AssemblyInfo.cs
+C:\Users\Memo4\Desktop\LibraryProject\ToDoListApi\ToDoListApi.Application\obj\Debug\net9.0\ToDoListApi.Application.csproj.CoreCompileInputs.cache
+C:\Users\Memo4\Desktop\LibraryProject\ToDoListApi\ToDoListApi.Application\obj\Debug\net9.0\ToDoList.0934190C.Up2Date
+C:\Users\Memo4\Desktop\LibraryProject\ToDoListApi\ToDoListApi.Application\obj\Debug\net9.0\ToDoListApi.Application.dll
+C:\Users\Memo4\Desktop\LibraryProject\ToDoListApi\ToDoListApi.Application\obj\Debug\net9.0\refint\ToDoListApi.Application.dll
+C:\Users\Memo4\Desktop\LibraryProject\ToDoListApi\ToDoListApi.Application\obj\Debug\net9.0\ToDoListApi.Application.pdb
+C:\Users\Memo4\Desktop\LibraryProject\ToDoListApi\ToDoListApi.Application\obj\Debug\net9.0\ref\ToDoListApi.Application.dll
